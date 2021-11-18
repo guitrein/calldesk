@@ -2,6 +2,6 @@
 Repositório do projeto CallDesk
 
 #Primeiro passo: Configurar Ambiente
-- https://www.filipeflop.com/blog/programando-a-raspberry-pi-pico-no-visual-studio-code/
-
+- https://www.robocore.net/tutoriais/programacao-raspberry-pi-pico-python
+- Caso apresente algum erro: https://github.com/thonny/thonny/issues/1986
 
